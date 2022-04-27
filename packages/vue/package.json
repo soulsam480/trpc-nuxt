@@ -1,0 +1,26 @@
+{
+  "name": "@nuxt-trpc/vue",
+  "version": "0.0.0",
+  "description": "Vue tRPC support",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@trpc/client": "^9.23.0",
+    "@trpc/server": "^9.23.0",
+    "@vueuse/core": "^8.3.1",
+    "react-query": "^3.38.0",
+    "vue": "^3.2.33",
+    "vue-query": "^1.22.3"
+  },
+  "peerDependencies": {
+    "@trpc/client": "^9.23.0",
+    "@trpc/server": "^9.23.0",
+    "react-query": "^3.31.0 || ^4.0.0-alpha.4",
+    "vue": "^3.2.33",
+    "vue-query": "^1.22.3"
+  }
+}
