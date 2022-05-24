@@ -1,3 +1,5 @@
+> Archived, use this instead https://github.com/wobsoriano/trpc-nuxt
+
 ## Nuxt tRPC
 
 > Status: early early alpha
